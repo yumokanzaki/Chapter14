@@ -1,0 +1,1 @@
+Note: We are recommending dropping step #1 from Project 1 in Chapter 14. We found that the interface and algorithmic differences in dealing with prepared statements between mysqli and PDO are way too complicated for a so-called "intermediate" end-of-chapter project. Sorry about that!
